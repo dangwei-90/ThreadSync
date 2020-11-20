@@ -30,7 +30,7 @@ void func_2_section() {
   }
 }
 
-int main()
+int main2()
 {
   InitializeCriticalSection(&g_critical);
   std::thread thread_1(func_1_section);
