@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="thread_sync.cpp">
+    <ClCompile Include="1_thread_sync_no.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2_thread_sync_section.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
