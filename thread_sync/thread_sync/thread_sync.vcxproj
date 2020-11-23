@@ -142,6 +142,7 @@
     <ClCompile Include="1_thread_sync_no.cpp" />
     <ClCompile Include="3_thread_sync_event.cpp" />
     <ClCompile Include="2_thread_sync_section.cpp" />
+    <ClCompile Include="4_thread_sync_semaphore.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -30,7 +30,7 @@ void func_2_event() {
   }
 }
 
-int main()
+int main3()
 {
   g_event = CreateEvent(NULL, FALSE, TRUE, L"thread_sync_event");
   std::thread thread_1(func_1_event);

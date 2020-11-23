@@ -24,5 +24,8 @@
     <ClCompile Include="3_thread_sync_event.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4_thread_sync_semaphore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
