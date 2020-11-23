@@ -27,5 +27,8 @@
     <ClCompile Include="4_thread_sync_semaphore.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5_thread_sync_mutex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

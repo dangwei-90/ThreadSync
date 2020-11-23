@@ -32,7 +32,7 @@ void func_2_semaphore() {
   }
 }
 
-int main()
+int main4()
 {
   g_semaphore = CreateSemaphore(NULL, 1, 100, L"thread_sync_semaphore");
   std::thread thread_1(func_1_semaphore);
